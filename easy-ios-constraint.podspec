@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'easy-ios-constraint'
-    s.version          = '1.0.0'
+    s.version          = '1.0.1'
     s.summary          = 'Easy iOS constraint programmatically'
     s.homepage         = 'https://github.com/indratir/easy-ios-constraint'
     s.license          = { :type => 'MIT', :file => 'LICENSE.md' }
